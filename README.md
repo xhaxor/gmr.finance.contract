@@ -1,5 +1,4 @@
 <img src="https://www.gmr.zone/wp-content/uploads/2021/05/TRANSPARENT-600x567.png" alt="logo" width="200"/>
-#
 
 # GMR Finance Contract
 
